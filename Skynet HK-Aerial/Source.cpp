@@ -12,7 +12,6 @@ int main()
 	int guess;
 	int lowNumber = 1;
 	int highNumber = 64;
-	int array[8][8];
 	int rows = 8;
 	int columns = 8;
 	int count = 1;
